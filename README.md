@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, World! I'm Saravanan M
+# 👋 Hello ! I'm Saravanan M
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Aspiring+DevOps+Engineer;Cloud+Computing+Enthusiast;Linux+%7C+Docker+%7C+AWS;Building+Reliable+Infrastructure;Always+Learning+Something+New" />
 
