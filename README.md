@@ -1,130 +1,92 @@
-<div align="center">
 
-# 👋 Hello ! I'm Saravanan M
+# 👋 Hello, World! I'm Saravanan M
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Aspiring+DevOps+Engineer;Cloud+Computing+Enthusiast;Linux+%7C+Docker+%7C+AWS;Building+Reliable+Infrastructure;Always+Learning+Something+New" />
-
-<p>
-  <a href="https://github.com/saravanan0515">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a>
-
-  <a href="https://www.linkedin.com/in/saravananm05/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-  </a>
-
-  <a href="https://agent-6a22ed5cb1f86018437a--saravananportfolio05.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=netlify">
-  </a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Aspiring+DevOps+Engineer;Cloud+Enthusiast;Linux+%7C+Docker+%7C+AWS;Always+Learning+Always+Building" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=saravanan0515&style=for-the-badge&color=0e75b6)
-
-</div>
-
----
-
-# 🚀 About Me
-
-I'm **Saravanan M**, an Integrated M.Sc. Software Systems student passionate about building reliable software, cloud infrastructure, and automation solutions.
-
-I enjoy transforming ideas into practical projects that solve real-world problems. Whether it's developing a full-stack application, creating AI-powered systems, or learning modern DevOps practices, I believe the best way to grow is by continuously building and experimenting.
-
-My goal is to become a highly skilled **DevOps Engineer**, specializing in cloud infrastructure, automation, Kubernetes, CI/CD, Infrastructure as Code, and scalable system design.
-
-I believe consistency beats talent, and every project teaches something valuable.
-
----
-
-# 💡 What I'm Currently Working On
-
-- 🚀 Building **DevOpsVerse**
-- 🤖 Developing an AI Trading Platform
-- ☁️ Learning AWS & Cloud Architecture
-- 🐳 Improving Docker & Containerization
-- ☸️ Mastering Kubernetes
-- ⚙️ Learning Terraform
-- 🔄 Practicing CI/CD Pipelines
-- 🐧 Deepening Linux knowledge
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css" />
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,terraform,kubernetes,bash" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman" />
+<p align="center">
+<a href="https://www.linkedin.com/in/saravananm05/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://agent-6a22ed5cb1f86018437a--saravananportfolio05.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=netlify"></a>
 </p>
 
 ---
 
-# 🎯 Career Objective
+## 🚀 About Me
 
-> Build reliable systems, automate repetitive work, solve real-world problems, and continuously improve through learning and hands-on experience.
+I'm **Saravanan M**, an Integrated M.Sc. Software Systems student passionate about DevOps, Cloud Computing, Linux, Automation and AI.
 
----
-
-# 📈 Learning Progress
-
-```text
-Linux              ██████████████████ 95%
-
-Git & GitHub       █████████████████ 90%
-
-Python             █████████████████ 90%
-
-Docker             ███████████████ 80%
-
-AWS                ████████████ 70%
-
-Terraform          ████████ 55%
-
-Kubernetes         ██████ 45%
-
-CI/CD              ██████ 45%
-```
+- 🌱 Currently learning Kubernetes, Terraform, AWS & CI/CD
+- 💻 Building practical projects
+- 🎯 Goal: Become a DevOps Engineer
 
 ---
 
-# ⚡ Fun Facts
+## 🛠 Tech Stack
 
-- 💻 I love building practical projects.
-- 📚 I enjoy learning new technologies every day.
-- ☁️ Cloud & DevOps excite me.
-- 🤝 Always open to collaboration.
-- 🚀 Passionate about automation.
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,aws,terraform,kubernetes,python,java,c,cpp,mysql,figma,vscode" />
+</p>
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-### ⭐ Thanks for visiting my profile!
+| Project | Description |
+|---------|-------------|
+| DevOpsVerse | Full-stack DevOps learning platform |
+| AI Trading Platform | AI-powered market analysis |
+| Malaria Detection | CNN model with 95%+ accuracy |
+| Doctor Appointment System | Flask + MySQL + Email/SMS reminders |
 
-*"Keep learning. Keep building. Keep improving."*
+---
 
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=saravanan0515&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=saravanan0515&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan0515&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=saravanan0515&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saravanan0515&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🎯 Current Mission
+
+- Master Kubernetes
+- Master Terraform
+- Build production-grade DevOps projects
+- Secure a DevOps internship
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/saravananm05/
+- Portfolio: https://agent-6a22ed5cb1f86018437a--saravananportfolio05.netlify.app/
+
+---
+
+> *Engineering Reliable Systems, One Commit at a Time.*
